@@ -1,7 +1,7 @@
 ###### Breast-Cancer-Data-Analytics-Using-R
 
 #### Project Overview
-This project focuses on the development of a machine learning algorithm aimed at predicting whether a breast cancer cell is benign or malignant. The dataset utilized for this project is the Breast Cancer Wisconsin (Diagnostic) DataSet, a well-known dataset in the field of medical diagnostics and machine learning.
+This project focuses on the development of a machine learning algorithm aimed at predicting whether a breast cancer cell is benign or malignant. The dataset utilized for this project is the Breast Cancer (Diagnostic) DataSet, a well-known dataset in the field of medical diagnostics and machine learning.
 
 ![flow diagram](https://github.com/user-attachments/assets/7dbb9c6f-98ca-4722-8059-f377111010b1)
 
